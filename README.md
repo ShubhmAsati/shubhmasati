@@ -1,6 +1,10 @@
-[![Header](https://github.com/ShubhmAsati/shubhmasati/blob/master/header/header.png "Header")]
+[![Header](https://github.com/ShubhmAsati/shubhmasati/blob/master/header/header.png "Header")](https://github.com/shubhmasati)
+<p align='center'>
+  <a href="www.linkedin.com/in/asatishubham"><img height="30" src="https://github.com/ShubhmAsati/shubhmasati/blob/master/icons/linkedin.png?raw=true"></a>
+</p>
 
-### Hi there 👋
+### Hello there 👋
+
 
 <!--
 **ShubhmAsati/shubhmasati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
