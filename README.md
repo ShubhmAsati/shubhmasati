@@ -8,7 +8,7 @@ looking for a good intro.. here
 
 
 #### :wrench:Technology
-
+![](https://img.shields.io/badge/code-java-brightgreen)
 <!--
 **ShubhmAsati/shubhmasati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
