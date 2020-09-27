@@ -8,7 +8,16 @@ looking for a good intro.. here
 
 
 #### :wrench:Technology
-![](https://img.shields.io/badge/code-java-brightgreen)
+&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/code-golang-brightgreen)&nbsp;&nbsp;
+![](https://img.shields.io/badge/code-dart-brightgreen)&nbsp;&nbsp;
+![](https://img.shields.io/badge/code-nodejs-brightgreen)&nbsp;&nbsp;
+![](https://img.shields.io/badge/tool-docker-brightgreen)&nbsp;&nbsp;
+![](https://img.shields.io/badge/tool-kubernetes-brightgreen)&nbsp;&nbsp;
+![](https://img.shields.io/badge/tool-flutter-brightgreen)&nbsp;&nbsp;
+![](https://img.shields.io/badge/tool-grpc-brightgreen)&nbsp;&nbsp;
+![](https://img.shields.io/badge/database-postgres-brightgreen)&nbsp;&nbsp;
+![](https://img.shields.io/badge/database-mongodb-brightgreen)&nbsp;&nbsp;
+
 <!--
 **ShubhmAsati/shubhmasati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
