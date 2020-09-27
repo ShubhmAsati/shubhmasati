@@ -3,7 +3,7 @@
   <a href="www.linkedin.com/in/asatishubham"><img height="30" src="https://github.com/ShubhmAsati/shubhmasati/blob/master/icons/linkedin.png?raw=true"></a>
 </p>
 
-### Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, folks <img src="https://github.com/ShubhmAsati/shubhmasati/blob/master/gifs/wave.gif" width="30px">
 looking for a good intro.. here
 
 
