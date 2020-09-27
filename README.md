@@ -7,7 +7,7 @@
 looking for a good intro.. here
 
 
-:wrench:##Technology
+## :wrench:Technology
 
 <!--
 **ShubhmAsati/shubhmasati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
