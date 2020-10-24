@@ -1,0 +1,65 @@
+// This is the first and will be more
+// too lazy to explain it hence putting link from where I understood https://github.com/MathProgrammer/Hacker-Earth/blob/master/Contests/May%20Easy%202019/Explanations/XOR%20and%20Insert%20Explanation.txt
+// Write your code here
+
+package main
+
+import(
+    "fmt"
+   
+)
+var bit = 30
+var trie [][]int
+var sz=1
+func add(el int){
+     p:= 0
+     for i:=bit-1;i>=0;i--{
+          if trie[p][(el>>i)&1]==0{
+              trie[p][(el>>i)&1]=sz
+              sz++
+          }
+          p= trie[p][(el>>i)&1]
+     }
+}
+func get(el int)int{
+    ans,p :=0,0
+    for i:=bit-1;i>=0;i--{
+        x := (el>>i)&1
+        if trie[p][x]>0{
+           p=trie[p][x]
+        }else{
+            p=trie[p][x^1]
+            ans|=1<<i
+        }
+    }
+    return ans
+}
+
+func main(){
+ 
+  trie= make([][]int,15000000)
+  //I think this step is consuming a lot of time 
+  //hence this code gives TLE
+  for i:=0;i<15000000;i++{
+      trie[i]=make([]int,2)
+  }
+  add(0)
+  var n int
+  fmt.Scanf("%d\n",&n)
+  cumXored :=0
+  for i:=0;i<n;i++{
+      var t int
+      fmt.Scanf("%d",&t)
+      if t==1{
+          var el int
+          fmt.Scanf("%d",&el)
+          add(cumXored^el)
+      }else if t==2{
+          var el int
+          fmt.Scanf("%d",&el)
+         cumXored ^=el
+      }else{
+        fmt.Println(get(cumXored))
+      }
+  }
+}
