@@ -1,6 +1,16 @@
 // This is the first and will be more
 // too lazy to explain it hence putting link from where I understood https://github.com/MathProgrammer/Hacker-Earth/blob/master/Contests/May%20Easy%202019/Explanations/XOR%20and%20Insert%20Explanation.txt
 // Write your code here
+/*
+// Sample code to perform I/O:
+
+fmt.Scanf("%s", &myname)            // Reading input from STDIN
+fmt.Println("Hello", myname)        // Writing output to STDOUT
+
+// Warning: Printing unwanted or ill-formatted data to output will cause the test cases to fail
+*/
+
+// Write your code here
 
 package main
 
@@ -9,7 +19,7 @@ import(
    
 )
 var bit = 30
-var trie [][]int
+var trie [][2]int
 var sz=1
 func add(el int){
      p:= 0
@@ -37,12 +47,7 @@ func get(el int)int{
 
 func main(){
  
-  trie= make([][]int,15000000)
-  //I think this step is consuming a lot of time 
-  //hence this code gives TLE
-  for i:=0;i<15000000;i++{
-      trie[i]=make([]int,2)
-  }
+  trie= make([][2]int,15000000)
   add(0)
   var n int
   fmt.Scanf("%d\n",&n)
