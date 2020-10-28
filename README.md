@@ -10,6 +10,13 @@ looking for a good intro.. here
 
 ![My languages](https://github-readme-stats.vercel.app/api/top-langs?username=shubhmasati&show_icons=true&theme=radical&layout=compact)
 
+<a href="https://github.com/shubhmasati/shubhmasati">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhmasati&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/shubhmasati/shubhmasati">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhmasati&show_icons=true&theme=radical&layout=compact" />
+</a>
+
 #### :wrench:Technology
 &nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/code-golang-brightgreen)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/code-dart-brightgreen)&nbsp;&nbsp;
