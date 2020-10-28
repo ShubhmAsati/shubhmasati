@@ -14,7 +14,7 @@ looking for a good intro.. here
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhmasati&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/shubhmasati/shubhmasati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhmasati&show_icons=true&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhmasati&show_icons=true&theme=gradient&layout=compact" />
 </a>
 
 #### :wrench:Technology
