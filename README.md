@@ -6,6 +6,8 @@
 ### Hello, folks <img src="https://github.com/ShubhmAsati/shubhmasati/blob/master/gifs/wave.gif" width="30px">
 looking for a good intro.. here
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=shubhmasati&show_icons=true&theme=radical)
+
 
 #### :wrench:Technology
 &nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/code-golang-brightgreen)&nbsp;&nbsp;
