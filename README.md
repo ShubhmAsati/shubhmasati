@@ -8,7 +8,7 @@ looking for a good intro.. here
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=shubhmasati&show_icons=true&theme=radical)
 
-![My github stats](https://github-readme-stats.vercel.app/api/top-langs?username=shubhmasati&show_icons=true&theme=radical)
+![My languages](https://github-readme-stats.vercel.app/api/top-langs?username=shubhmasati&show_icons=true&theme=radical&layout=compact)
 
 #### :wrench:Technology
 &nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/code-golang-brightgreen)&nbsp;&nbsp;
