@@ -4,8 +4,7 @@
 </p>
 
 ### Hello folks <img src="https://github.com/ShubhmAsati/shubhmasati/blob/master/gifs/wave.gif" width="30px">
-looking for a good intro.. here
-
+Writing code that matters..
 ![My github stats](https://github-readme-stats.vercel.app/api?username=shubhmasati&show_icons=true&theme=radical)
 
 ![My languages](https://github-readme-stats.vercel.app/api/top-langs?username=shubhmasati&show_icons=true&theme=radical&layout=compact)
